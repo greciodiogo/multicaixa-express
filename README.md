@@ -97,15 +97,27 @@ Noções de PHP assíncrono
 
 # O que será um Diferencial
 Uso de Docker
+
 Uma cobertura de testes consistente
+
 Uso de Design Patterns
+
 Documentação
+
 Proposta de melhoria na arquitetura
+
 Ser consistente e saber argumentar suas escolhas
+
 Apresentar soluções que domina
+
 Modelagem de Dados
+
 Manutenibilidade do Código
+
 Tratamento de erros
+
 Cuidado com itens de segurança
+
 Arquitetura (estruturar o pensamento antes de escrever)
+
 Carinho em desacoplar componentes (outras camadas, service, repository)
