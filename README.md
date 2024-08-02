@@ -49,18 +49,6 @@ Este serviço deve ser RESTFul.
 
 Tente ser o mais aderente possível ao que foi pedido, mas não se preocupe se não conseguir atender a todos os requisitos. Durante a entrevista vamos conversar sobre o que você conseguiu fazer e o que não conseguiu.
 
-Endpoint de transferência
-A implementação deve seguir o contrato abaixo.
-
-POST /transfer
-Content-Type: application/json
-
-{
-  "value": 100.0,
-  "payer": 4,
-  "payee": 15
-}
-
 Avaliação
 Apresente sua solução utilizando o framework que você desejar, justificando a escolha. Atente-se a cumprir a maioria dos requisitos, pois você pode cumprir-los parcialmente e durante a avaliação vamos bater um papo a respeito do que faltou.
 
