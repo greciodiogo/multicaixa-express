@@ -75,13 +75,18 @@ Aptidões para criar e manter aplicações de alta qualidade:
 
 # Aplicação de conhecimentos de observabilidade
 Utlização de CI para rodar testes e análises estáticas
+
 Conhecimentos sobre bancos de dados não-relacionais
+
 Aplicação de arquiteturas (CQRS, Event-sourcing, Microsserviços, Monolito modular)
+
 Uso e implementação de mensageria
+
 Noções de escalabilidade
+
 Boas habilidades na aplicação do conhecimento do negócio no software
+
 Implementação margeada por ferramentas de qualidade (análise estática)
-Noções de PHP assíncrono
 
 # O que será um Diferencial
 Uso de Docker
